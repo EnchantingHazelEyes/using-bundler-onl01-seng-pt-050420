@@ -1,3 +1,5 @@
+'../config/environment'
+
 Hashie
 Sinatra
 Octokit
